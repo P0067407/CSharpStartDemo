@@ -16,6 +16,7 @@ namespace demo
             Console.WriteLine("abcdefghabcd".Replace("abcd","xxxx"));
             int random = new Random().Next(1000);
             Console.WriteLine(random);
+            //729600626
         }
          
     }
